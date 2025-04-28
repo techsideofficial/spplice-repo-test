@@ -1,0 +1,13 @@
+{
+  "packages": [
+    {
+      "title": "Size Gun",
+      "author": "PortalRunner and TechSide",
+      "description": "An alternate universe where Valve made a Portal game without the portals.\u003Cbr\u003EThe single-player campaign has been modified to facilitate a \"size gun\" instead of the portal gun.\u003Cbr\u003E\u003Cbr\u003ECommissioned by Questathana on Ko-fi.",
+      "version": "1.2.0",
+      "args": [],
+      "file": "https://github.com/techsideofficial/spplice-repo-test/blob/main/resize/resize.tar.xz",
+      "icon": "https://raw.githubusercontent.com/techsideofficial/spplice-repo-test/5b772695d0dc795c0ac5223116ba1ecefc532efe/resize/icon.png"
+    }
+  ]
+}
